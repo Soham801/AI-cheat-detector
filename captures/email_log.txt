@@ -1,0 +1,454 @@
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763754489
+Body: Cheating behavior detected: Student looking left for 2.0s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763754489.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763754916
+Body: Cheating behavior detected: Student looking right for 2.1s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763754916.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763754948
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763754948.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763754966
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763754966.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763755038
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763755038.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763755218
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763755218.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763755230
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763755230.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763792536
+Body: Cheating behavior detected: Student looking left for 2.1s.
+
+See attached evidence.
+Attachment: c:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763792536.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763792982
+Body: Cheating behavior detected: Student looking left for 2.0s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763792982.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793000
+Body: Cheating behavior detected: Student looking left for 2.0s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793000.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793048
+Body: Cheating behavior detected: Student looking left for 2.0s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793048.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793064
+Body: Cheating behavior detected: Student looking left for 2.2s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793064.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793514
+Body: Cheating behavior detected: Student looking left for 2.1s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793514.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793535
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793535.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793559
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793559.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793574
+Body: Cheating behavior detected: Student looking left for 2.0s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793574.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793586
+Body: Cheating behavior detected: Student looking right for 2.1s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793586.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793613
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793613.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763793626
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763793626.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794130
+Body: Cheating behavior detected: Student looking left for 0.9s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794130.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794143
+Body: Cheating behavior detected: Student looking right for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794143.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794154
+Body: Cheating behavior detected: Student looking left for 4.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794154.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794183
+Body: Cheating behavior detected: Student looking left for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794183.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794196
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794196.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794211
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794211.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794238
+Body: Cheating behavior detected: Student looking left for 0.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794238.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763794250
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763794250.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763797069
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763797069.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763797079
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763797079.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763804890
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763804890.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763805701
+Body: Cheating behavior detected: Student looking right for 0.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763805701.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806037
+Body: Cheating behavior detected: Student looking right for 0.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806037.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806052
+Body: Cheating behavior detected: Student looking left for 0.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806052.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806658
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806658.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806678
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806678.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806689
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806689.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806700
+Body: Cheating behavior detected: Proximity alert: Unknown and Unknown are too close.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806700.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806964
+Body: Cheating behavior detected: Student looking left for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806964.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806974
+Body: Cheating behavior detected: Student looking left for 1.6s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806974.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806987
+Body: Cheating behavior detected: Student looking left for 0.6s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806987.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: Cheating Alert: Student Unknown
+Time: 1763806997
+Body: Cheating behavior detected: Student looking left for 3.5s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763806997.jpg
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1763807455
+Body: Cheating behavior detected: Student looking left for 0.6s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1763807455.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking left for 0.6s.', 'timestamp': '2025-11-22 16:00:55', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774881772
+Body: Cheating behavior detected: Student looking left for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774881772.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking left for 0.7s.', 'timestamp': '2026-03-30 20:12:52', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774881786
+Body: Cheating behavior detected: Student looking right for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774881786.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.7s.', 'timestamp': '2026-03-30 20:13:06', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774881805
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774881805.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Phone detected near student.', 'timestamp': '2026-03-30 20:13:25', 'severity': 'high'}
+-----------------------
+
