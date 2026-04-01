@@ -452,3 +452,146 @@ Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captu
 Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Phone detected near student.', 'timestamp': '2026-03-30 20:13:25', 'severity': 'high'}
 -----------------------
 
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941127
+Body: Cheating behavior detected: Student looking right for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941127.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.7s.', 'timestamp': '2026-03-31 12:42:07', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941137
+Body: Cheating behavior detected: Student looking right for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941137.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.7s.', 'timestamp': '2026-03-31 12:42:17', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941153
+Body: Cheating behavior detected: Student looking right for 0.7s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941153.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.7s.', 'timestamp': '2026-03-31 12:42:33', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941237
+Body: Cheating behavior detected: Student looking right for 85.2s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941237.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 85.2s.', 'timestamp': '2026-03-31 12:43:57', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941392
+Body: Cheating behavior detected: Student looking right for 0.5s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941392.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.5s.', 'timestamp': '2026-03-31 12:46:32', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941529
+Body: Cheating behavior detected: Student looking left for 0.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941529.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking left for 0.8s.', 'timestamp': '2026-03-31 12:48:49', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941539
+Body: Cheating behavior detected: Student looking right for 6.1s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941539.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 6.1s.', 'timestamp': '2026-03-31 12:48:59', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941550
+Body: Cheating behavior detected: Student looking right for 0.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941550.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.8s.', 'timestamp': '2026-03-31 12:49:10', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941560
+Body: Cheating behavior detected: Student looking right for 2.4s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941560.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 2.4s.', 'timestamp': '2026-03-31 12:49:20', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941577
+Body: Cheating behavior detected: Student looking right for 0.9s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941577.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.9s.', 'timestamp': '2026-03-31 12:49:37', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941589
+Body: Cheating behavior detected: Student looking left for 0.9s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941589.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking left for 0.9s.', 'timestamp': '2026-03-31 12:49:49', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941604
+Body: Cheating behavior detected: Student looking right for 0.8s.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941604.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Student looking right for 0.8s.', 'timestamp': '2026-03-31 12:50:04', 'severity': 'high'}
+-----------------------
+
+--- SIMULATED EMAIL ---
+To: LOG_ONLY
+Subject: 🚨 Academic Integrity Alert: Unknown
+Time: 1774941614
+Body: Cheating behavior detected: Phone detected near student.
+
+See attached evidence.
+Attachment: C:\Users\Soham Deshmukh\OneDrive\Desktop\Soham\AICheatDetector\captures\cheat_alert_unknown_1774941614.jpg
+Details: {'student_name': 'Unknown', 'student_id': 'unknown', 'violation_type': 'Phone detected near student.', 'timestamp': '2026-03-31 12:50:14', 'severity': 'high'}
+-----------------------
+
